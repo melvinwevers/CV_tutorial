@@ -1,3 +1,8 @@
+
+## TO DO:
+Expand installation instructions
+Add more images to improve classifier
+
 # CV_tutorial
 
 ##Anaconda install virtual env
