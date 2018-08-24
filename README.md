@@ -1,33 +1,33 @@
 
-## TO DO:
+# TO DO:
 Expand installation instructions
 Add more images to improve classifier
 
 # CV_tutorial
 
-##Anaconda install virtual env
+### Anaconda install virtual env
 or using virtual env
 
-## Install virtualenv for python3 
+### Install virtualenv for python3 
 pip3 install virtualenv
 
-## Make a directory for virtual environments
+### Make a directory for virtual environments
 mdkir ~/virtualenvs
 
-## Make a virtual environment
+### Make a virtual environment
 virtualenv --system-site-packages -p python3 ~/virtualenvs/cv_course
 
-## activate environment
+### activate environment
 source ~/virtualenvs/cv_course/bin/activate
 
-## Install iPython
+### Install iPython
 pip3 install ipython
 
-## install Jupyter
+### install Jupyter
 pip3 install jupyter
 
-## Install kernel
+### Install kernel
 python3 -m ipykernel install --user --name cv_course --display-name "cv_course"
 
-## Install libraries
+### Install libraries
 pip3 install -r requirements.txt
