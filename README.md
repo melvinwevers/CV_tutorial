@@ -33,22 +33,28 @@ Install virtualenv
 
 make directory for virtual environments (feel free to change this)
 
-`mdkir ~/virtualenvs
+`mdkir ~/virtualenvs`
 
 Make a virtual environment
+
 `virtualenv --system-site-packages -p python3 ~/virtualenvs/cv_course`
 
 activate environment
+
 `source ~/virtualenvs/cv_course/bin/activate`
 
 install iPython
+
 `pip3 install ipython`
 
 install Jupyter
+
 `pip3 install jupyter`
 
-nstall kernel
+install kernel
+
 `python3 -m ipykernel install --user --name cv_course --display-name "cv_course"`
 
-Install libraries
+install libraries
+
 `pip3 install -r requirements.txt`
