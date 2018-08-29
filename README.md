@@ -1,3 +1,4 @@
+conda create -n new environment --file req.txt
 
 # TO DO:
 Expand installation instructions
