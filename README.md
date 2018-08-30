@@ -3,10 +3,6 @@
 
 Welcome to this workshop on Computer Vision and Convolutional Neural Networks. In a couple of steps we explain how computer vision techniques can be used to manipulate and analyse images and how convolutional neural networks (using KERAS) use transformations to analyse visual material.
 
-### To do
-- Improve classifier
-- Remove output in notebook
-
 ## Installation instructions
 
 ### Install using Anaconda
