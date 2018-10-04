@@ -7,7 +7,12 @@ Welcome to this workshop on Computer Vision and Convolutional Neural Networks. I
 
 ### Install using Anaconda
 
-The easiest way to install the requires libraries is through Anaconda. Make sure you have anaconda installed for python 3.6. 
+The easiest way to install the requires libraries is through Anaconda. Make sure you have anaconda 5.2.0 installed for python 3.6. 
+
+You can download anaconda 5.2.0 here: https://repo.anaconda.com/archive/
+
+Ore you can make a python 3.6. environment in anaconda. This is described here: http://docs.anaconda.com/anaconda/faq/#how-do-i-get-anaconda-with-python-3-5-or-3-6
+
 
 Clone this repository to your local machine using
 
@@ -29,7 +34,7 @@ Install virtualenv
 
 make directory for virtual environments (feel free to change this)
 
-`mdkir ~/virtualenvs`
+`mkdir ~/virtualenvs`
 
 Make a virtual environment
 
