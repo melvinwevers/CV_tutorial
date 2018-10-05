@@ -11,7 +11,7 @@ The easiest way to install the requires libraries is through Anaconda. Make sure
 
 You can download anaconda 5.2.0 here: https://repo.anaconda.com/archive/
 
-Ore you can make a python 3.6. environment in anaconda. This is described here: http://docs.anaconda.com/anaconda/faq/#how-do-i-get-anaconda-with-python-3-5-or-3-6
+Or you can make a python 3.6. environment in anaconda. This is described here: http://docs.anaconda.com/anaconda/faq/#how-do-i-get-anaconda-with-python-3-5-or-3-6
 
 
 Clone this repository to your local machine using
@@ -26,7 +26,9 @@ Activate the environment in Anaconda or using your terminal (again replace new_e
 
 `conda activate new_environment`
 
-### Install virtualenv for python3 
+### Install using virtualenv for python3 
+These instructions are for mac os. 
+For windows please see these instructions: https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/
 
 Install virtualenv
 
