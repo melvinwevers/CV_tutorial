@@ -22,6 +22,19 @@ Navigate to this directory and then input (replace new_environment with your pre
 
 `conda create -n new_environment --file req.txt` 
 
+If this does not work you can also create a new environment in the Anaconda GUI and install the following libraries by hand:
+
+* pandas
+* os
+* Matplotlib
+* skimage
+* keras
+* scipy
+* glob
+* tqdm
+* sklearn
+* face_recognition
+
 Activate the environment in Anaconda or using your terminal (again replace new_environment with the name given to your environment)
 
 `conda activate new_environment`
