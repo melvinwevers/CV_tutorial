@@ -6,7 +6,7 @@ bleach>=3.1.1
 click==6.7
 cloudpickle==0.5.3
 cycler==0.10.0
-dask==0.18.2
+dask==2021.10.0
 decorator==4.3.0
 dlib==19.15.0
 entrypoints==0.2.3
